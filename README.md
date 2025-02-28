@@ -1,19 +1,17 @@
-# Welcome to Flowise
+<!-- markdownlint-disable MD030 -->
 
-<figure><img src=".gitbook/assets/flowise.gif" alt=""><figcaption></figcaption></figure>
+<img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.png?raw=true"></a>
 
-## [🤔](https://emojipedia.org/thinking-face/) What is Flowise?
+# FlowiseDocs
 
-Flowise is an open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
-
-Watch a quickstart demo (2mins)
-
-{% embed url="https://youtu.be/d7vfUodP0c4" %}
-
-Watch a full demo (10 mins)
-
-{% embed url="https://youtu.be/kAyKOsm8L5Y" %}
+<h3>Drag & drop UI to build your customized LLM flow</h3>
+<a href="https://github.com/FlowiseAI/Flowise">
+<img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true"></a>
 
 ## 🙌 Contributing
 
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
+We love contributions! Feel free to submit Pull Request and we will review. Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
+
+## 📄 License
+
+Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
